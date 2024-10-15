@@ -1,0 +1,20 @@
+{
+  "name": "raja-calculation-package",
+  "version": "1.0.0",
+  "description": "Used to perform calculations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajapandiyan-settu/raja-calculation-package.git"
+  },
+  "author": "rajapandiyan-settu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajapandiyan-settu/raja-calculation-package/issues"
+  },
+  "homepage": "https://github.com/rajapandiyan-settu/raja-calculation-package#readme"
+}
